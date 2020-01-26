@@ -1,0 +1,28 @@
+/* .home{
+    background-color: yellow;
+} */
+
+
+.gridStyle{
+    /* background-color: aqua; */
+    padding: 30px;
+    margin: 20px;
+    background: '#ECECEC';
+}
+/* .btn:active{
+    background-color: red;
+}
+.btn:focus{
+    background-color: red;
+} */
+ th{
+  /* background-color: white; */
+ }
+
+ .WithStyles\(ForwardRef\(TableCell\)\)-head-237 {
+    color: #fff;
+    background-color: #17a2b8 !important;
+}
+.col{
+    padding: 0px 0px 0px 0px;
+}

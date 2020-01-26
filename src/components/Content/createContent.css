@@ -1,0 +1,15 @@
+.g1{
+
+ padding: 50px;
+}
+.g2{
+  padding: 30px;
+}
+.g3{
+  margin-top: 30px;
+  color: white;
+  background-color: #6442E0;
+}
+.ant-input{
+  padding: 1px 11px !important;
+}
