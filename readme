@@ -1,1 +1,5 @@
-
+1.require node version above v10.
+2.git clone
+3.cd repo
+4.npm install (install all dependencies)
+5.npm start
